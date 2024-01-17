@@ -20,7 +20,7 @@ export default {
                     \`/summarize\` - Summarize recent messages
                     \`/ping\` - Test bot response
                     \`/help\` - Show this screen
-                    
+
                     ## Project motivation
                     See [this project's overview](https://github.com/randy-halim/discord-ai-conversation-summary#why).
                 `),
